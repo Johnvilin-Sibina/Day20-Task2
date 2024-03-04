@@ -1,4 +1,5 @@
-// Free Dictionary
+// This task is done using Free Dictionary API. A word is given by the user and that word is used to 
+//retrive data from the API
 
 //This function is to create a h1 tag
 function create_h1(tagname, attrname, attrvalue, content) {
